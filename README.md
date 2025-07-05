@@ -17,8 +17,6 @@
 ## 💻 Tech Stack & Tools
 
 ### 🚀 Programming Languages  
-
-### 🚀 Programming Languages  
 <div align="left">
 
 ![Java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white)
@@ -91,8 +89,6 @@
 </div>
  
 ---
-
-
 
 ## 💼 Work Experience
 
