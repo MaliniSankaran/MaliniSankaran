@@ -103,7 +103,7 @@ Led an 8-member team in educational tech application development, bridging desig
 ## 📚 Education
 
 - 🎓 **Northeastern University** (Boston, MA)  
-  M.S. in Information Systems | GPA: 3.82 (May 2025)
+  M.S. in Information Systems | GPA: 3.82 (Dec 2025)
 
 - 🎓 **Sree Chitra Thirunal College of Engineering** (India)  
   B.Tech in Computer Science and Engineering (Aug 2019)
