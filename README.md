@@ -4,7 +4,7 @@
 
 🛠️I enjoy building tech that's thoughtful, scalable, and rooted in real human impact.
 
-🎓 Currently pursuing my Master’s in Information Systems at **Northeastern University**, Boston.  
+🎓 Currently pursuing my Master’s in Computer Software Engineering at **Northeastern University**, Boston.  
 
 💻 Passionate about **full-stack development**, **cloud computing**, and using technology to drive **meaningful change** — whether in sustainability, accessibility, or education.
 
@@ -23,9 +23,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 </div> 
   
@@ -96,7 +95,7 @@
 Developed a cross-platform hardware test system for a sustainability-driven company, boosting testing efficiency through automation.
 
 ### 🧠 **Senior Engineer** @ TATA ELXSI LTD (Nov 2019 – Apr 2023)  
-Led an 8-member team in educational tech application development, bridging design, curriculum, and QA to enhance learning experiences. Contributed to AR/VR projects.
+Led an 8-member team in educational tech application development, bridging design, curriculum, and QA to enhance learning experiences. 
 
 ---
 
